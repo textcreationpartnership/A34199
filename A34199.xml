@@ -1,0 +1,364 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Urim and thummim, or, The clergies dignity and duty recommended in a visitation sermon preached at Lewes April 27, 1669 / by Malachi Conant ...</title>
+            <author>Connant, M. (Malachi), d. 1680.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1669</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 51 KB of XML-encoded text transcribed from 16 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A34199</idno>
+            <idno type="STC">Wing C5690</idno>
+            <idno type="STC">ESTC R43114</idno>
+            <idno type="EEBO-CITATION">26832423</idno>
+            <idno type="OCLC">ocm 26832423</idno>
+            <idno type="VID">109817</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A34199)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 109817)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1714:8)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Urim and thummim, or, The clergies dignity and duty recommended in a visitation sermon preached at Lewes April 27, 1669 / by Malachi Conant ...</title>
+                  <author>Connant, M. (Malachi), d. 1680.</author>
+               </titleStmt>
+               <extent>[4], 26 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by H. Hall ... for James Collins ...,</publisher>
+                  <pubPlace>Oxford :</pubPlace>
+                  <date>1669.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in Bodleian Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Visitation sermons.</term>
+               <term>Sermons, English --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-09</date>
+            <label>Leigh Rupinski</label>Sampled and proofread</change>
+         <change>
+            <date>2013-09</date>
+            <label>Leigh Rupinski</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:109817:1" rendition="simple:additions"/>
+            <p>
+               <hi>
+                  <g ref="char:V">Ʋ</g>RIM and TH<g ref="char:V">Ʋ</g>MMIM;</hi> OR THE CLERGIES DIGNITY and DVTY Recommended in a Viſitation Sermon Preached at LEWES in <hi>Suſſex, April</hi> 27. 1669.</p>
+            <p>By <hi>Malachi Conant</hi> B. D.</p>
+            <p>S. Ignatius. <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>.</p>
+            <p>S. Hieronymus. <hi>Vita jubeat, Lingua perſuadeat.</hi>
+            </p>
+            <p>
+               <hi>OXFORD,</hi> Printed by <hi>H. Hall,</hi> Printer to the Vniver<g ref="char:EOLhyphen"/>ſity, for <hi>James Collins,</hi> at the ſign of the King's Head in <hi>Weſtminſter-Hall.</hi> 1669.</p>
+         </div>
+         <div type="imprimatur">
+            <pb facs="tcp:109817:2"/>
+            <p>Imprimatur</p>
+            <p>
+               <hi>Jo: Fell</hi> VICECAN:</p>
+            <p>Aug. 2, 1669.</p>
+         </div>
+         <div type="authors_note">
+            <pb facs="tcp:109817:2"/>
+            <p>ADMODUM Reverendo in Chriſto Patri ac Domino, D<hi rend="sup">no</hi> HENRICO (Providentiâ Divinâ) Ciceſtrenſi Epiſcopo Praeſuli non minus ob virtutes Heroicas &amp; eruditionem ſummam, quam Infulae dignitatem ſpectatiſſimo, NECNON Domino, Patrono, ac Fautori ſuo, quam plurimis nominibus Colendiſſimo</p>
+            <p>Concionem hanc qualem-qualem, ad Clerum Suſſexianum haud ita pridem habitam, Obſervantiae, &amp; gratitudinis haud exiguae ſpecimen ac <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> exiguum.</p>
+            <p>
+               <hi>L. M. Q. D. D. D.</hi>
+            </p>
+            <p>Humillimus Cliens, Author.</p>
+         </div>
+      </front>
+      <body>
+         <div type="sermon">
+            <pb facs="tcp:109817:3"/>
+            <pb n="1" facs="tcp:109817:3"/>
+            <head>
+               <hi>
+                  <g ref="char:V">Ʋ</g>rim and Thummim;</hi> OR, THE CLERGIES DIGNITY and DUTY Recommended in a Viſitation Sermon Preached at LEWES. <hi>April,</hi> 27. 1669.</head>
+            <epigraph>
+               <q>
+                  <bibl>
+                     <hi>S.</hi> Matth. <hi>5.16.</hi>
+                  </bibl>
+                  <p>Let your light ſo ſhine before men, that they may ſee your good works, and glorifie your Father, which is in Heaven.</p>
+               </q>
+            </epigraph>
+            <p>
+               <seg rend="decorInit">N</seg>O ſooner had Almighty <hi>God created the Heaven, and the earth,</hi> but perceiving that while this lower World was co<g ref="char:EOLhyphen"/>vered with darkneſs, the moſt excellent objects <hi>loſt their beauty,</hi> and ſo that it was no bet<g ref="char:EOLhyphen"/>ter, then a larger <hi>dungeon;</hi> that ſo he might the better extract a <hi>beautiful world</hi> out of a <hi>confuſed Chaos,</hi> he was pleaſed immediately by his Omnipotent Word to produce times firſt born Iſſue <hi>Light,</hi>
+               <note place="margin">Gen. 1.3.</note> and in the inviſible World thoſe morning Stars, which were
+<pb n="2" facs="tcp:109817:4"/>then all <hi>Angels of Light:</hi> And accordingly in the New-creation of that little world Man, one of the firſt graces, is that of <hi>Illumination, whereby men are turned from darkneſs to light,</hi>
+               <note place="margin">Acts 26.18.</note> 
+               <hi>and from the power of Satan (that Angel of darkneſs,) unto God the Father of Lights.</hi> But ſeeing this light within us is <hi>ſupernatural,</hi> it muſt (like the other cele<g ref="char:EOLhyphen"/>ſtial being) be introduced by a <hi>light without, viz.</hi> that true primigenial Univerſal Light, <hi>that lighteth every man that cometh into the world.</hi>
+               <note place="margin">John 1.9.</note> And this treaſure of light God hath put (as <hi>Gideon</hi> did his lamps) into <hi>earthen veſſels,</hi> ſhining upon us by the vicarious borrowed <hi>light of his Miniſters,</hi> whom in this ſenſe he hath made a <hi>flaming fire,</hi> or <hi>as the light of the morning when the Sun ariſeth;</hi>
+               <note place="margin">Revel. 1.20.</note> and therefore calleth them <hi>Stars, in his right hand.</hi>
+            </p>
+            <p>Hence our bleſſed Saviour in this his excellent Sermon on the Mount (out of which the Text is ta<g ref="char:EOLhyphen"/>ken) directed primarily to his Diſciples, though they receive their charge like a Grand Jury be<g ref="char:EOLhyphen"/>fore the multitude, vouchſafes to dignifie them, be<g ref="char:EOLhyphen"/>ſides other titles of the <hi>Salt of the earth,</hi> and a <hi>City ſet upon an hill,</hi> with the honourable appellation of the <hi>Lights of the world,</hi> verſ. 14. and proceedes from their dignity to infer and urge their duty in the Text. <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>. <hi>Let your light ſo ſhine,</hi> &amp;c. or (as others) <hi>So let your light ſhine,</hi> &amp;c. q. d. ſeeing you are called to this high, and holy calling, and have the title of Light attributed unto you, by which God himſelf is called, and conſidering you are in danger by the power of temptation and
+<pb n="3" facs="tcp:109817:4"/>your own frailty, with thoſe once bleſſed Angels to leave your firſt Station, and fall from your own ſtedfaſtneſs into ſupineneſs of living; let me tell you, this Elogy doth not only entitle you to a benefice and dignity, but likewiſe oblige you to an Office, and Duty: and ſo you are not to ſever the Honour of your Sacred Function from the charge and burden annexed unto it; but ſo keep your <hi>decorum</hi> as to your demeanour both in life and doctrine, that it may be ſuitable to that weighty, and tranſcendent Calling of being my Miniſters and Apoſtles, into which you are now inſtated.</p>
+            <p>And ſo you have in the words theſe parts.</p>
+            <p>Firſt, The Dignity of Chriſt's Miniſters; Implied in Light.</p>
+            <p>Secondly, Their Duty expreſſed. <hi>Let your light ſo ſhine before men, that they may ſee your good works.</hi>
+            </p>
+            <p>Thirdly, The Scope, and end of all. Not the oſtentation of our ſelves (for ſo they are repro<g ref="char:EOLhyphen"/>ved,
+<note place="margin">Matth. 6.1.</note> that do <hi>their works before men to be ſeen of them.</hi>) But, Firſt as a ſubordinate end the edifica<g ref="char:EOLhyphen"/>tion of others, that they may take pattern by us in ſeeing our good works:</p>
+            <p>Secondly, the Supreme and Ultimate, Gods glo<g ref="char:EOLhyphen"/>ry, that men may be induced to glorifie him in the <hi>day of their viſitation,</hi> for having provided for them ſuch excellent inſtructors, and ſure guides.</p>
+            <p n="1">1. To reſume the former of theſe.</p>
+            <p>The Miniſters of the Goſpel have the honour and priviledge to be ſtyled Lights, a Title the more conſiderable in that aſcribed to <hi>God himſelf,</hi>
+               <note place="margin">1 John 1.5.</note>
+               <pb n="4" facs="tcp:109817:5"/>though it is true with ſome difference, to him as to an Original, Inacceſſible, Incomprehenſible Light, to us as ſecondary leſſer mutuatitious lights: but however it is honour enough that he is pleaſed to put <hi>ſome of his glory</hi> upon us, as he did on <hi>Moſes</hi> his face, though we ſhine but with a reflex and re<g ref="char:EOLhyphen"/>fracted ray. It is enough that though he only be the Father of Lights; yet we are children of the light, and of the day; and that we have this Spiri<g ref="char:EOLhyphen"/>tual honour derived to us immediately by this Fountain of all honour. What though we are not that <hi>Son of Righteouſneſs which ariſeth with healing in his wings,</hi> that <hi>day ſpring from on high?</hi> Yet are we radiant ſtars of light. We are not all perhaps of the ſame magnitude, nor do we all move, in the ſame Sphere, but ſome in an higher, others in a lower; and <hi>one ſtar differeth from another ſtar in glory:</hi> but yet ſtill if we be good Paſtors, we have the name given us of Celeſtial bodies, and ſo are exalted in our Chriſtian ſtation above the in<g ref="char:EOLhyphen"/>ferior world of Laymen or Private Chriſtians; and as ſtars, have not only the priviledge of being illu<g ref="char:EOLhyphen"/>minated our ſelves, but that other more obſcure Corporeal beings in our <hi>light do ſee Light.</hi>
+            </p>
+            <p>But to deſcend to particulars my buſineſs ſhall be to demonſtrate briefly ſome of that Analogy and proportion that is to be found between the <hi>Lite<g ref="char:EOLhyphen"/>ral and Metaphorical,</hi> Natural and Supernatural light; and this I ſhall do in two heads.</p>
+            <p n="1">1. <hi>Lux eſt ſpecioſiſsima aſpectu.</hi>
+            </p>
+            <p n="2">2. <hi>Lux eſt fortiſsima effectu.</hi>
+            </p>
+            <p n="1">1.
+<note place="margin">Eccleſ. 11.7.</note> It is <hi>ſpecioſiſsima aſpectu. Light is ſweet and it is a pleaſant thing to behold the Sun,</hi> ſaith <hi>Solo<g ref="char:EOLhyphen"/>mon.</hi> I cannot better deſcant on thoſe words, than
+<pb n="5" facs="tcp:109817:5"/>in the elegant ſtyle of the ingenious Author, <hi>of the Light of Nature.</hi>
+               <note place="margin">
+                  <hi>Culverwel.</hi> c. 17.</note>
+            </p>
+            <p>
+               <hi>Light is</hi> (ſaith he) <hi>the ſmile of nature, the gloſs of the World, the varniſh of the creation, a bright paraphraſe on bodies; whether it diſcover it ſelf in the modeſty of a morning bl<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſh, and open it's fair, and Virgine eye-lids in the dawning day, whether it dart out it's more vigorous and ſprightly beams in it's noon-day glory, whether it ſport and twinkle in a ſtar, or blaze and glare out in a Comet, or frisk and dance in a jewel, or diſſemble and play the hypocrite in a Glow-worm, or ſhew it's zeal and the ruddineſs of it's Complexion in the yolk of fire, or grow more pale pining and conſuming away in a Candle: However it appears, it carries a command<g ref="char:EOLhyphen"/>ing luſtre in it's face, and well deſerveth the name of the Lady and Queen of all ſenſible beauties, The firſt born of corporeal beings; The clarifier, and refiner of the Chaos, the unſpotted beauty of the univerſe.</hi>
+            </p>
+            <p>Now herein Chriſt's Apoſtles and Succeſſors bear a reſemblance unto it, being for the ſpiritual excellency of their Calling denominated not only <hi>ſtars, but Angels, choſen Veſſels, Men of a thouſand;</hi>
+               <note place="margin">Revel 1.20. &amp; 2.1. Acts 9.15. Job 33.23. Rom. 10.15. 2 Cor. 8.23.</note> their <hi>very feet are ſtyled beautiful,</hi> and <hi>they</hi> them<g ref="char:EOLhyphen"/>ſelves, the <hi>Glory of Chriſt.</hi> We know that the Ju<g ref="char:EOLhyphen"/>daical Prieſthood was externally very glorious, and yet that, being only a <hi>Type</hi> of ours, is made much inferior by the Apoſtle to ours.
+<note place="margin">2 Cor. 3.9.</note> If the <hi>miniſtration of condemnation were glorious, much more doth the miniſtration of righteouſneſs exceed in glory.</hi> Cal<g ref="char:EOLhyphen"/>led therefore we are God's <hi>ſtewards, Meſſengers,</hi>
+               <note place="margin">1 Cor. 4.1. 2 Cor. 5.20.</note> and <hi>Ambaſſadors.</hi> And how indeed can their em<g ref="char:EOLhyphen"/>ployment chuſe but be honourable, whoſe buſineſs
+<pb n="6" facs="tcp:109817:6"/>is to menage the affairs of <hi>heaven upon earth?</hi> No wonder therefore that Chriſt himſelf, though Lord of heaven and earth, did not diſdain to un<g ref="char:EOLhyphen"/>dertake it for our ſakes,
+<note place="margin">Rom. 15.8.</note> when he became a <hi>Mini<g ref="char:EOLhyphen"/>ſter</hi> of the New Teſtament. And though it is true, that this holy function is eſteemed now adays Vile and Contemptible by thoſe earth-worms that nei<g ref="char:EOLhyphen"/>ther fear God, nor value their own Souls, but eſteem of men <hi>according to their external wealth and grandeur,</hi> weighing them by the pound, and meaſuring them by the Acre, and therefore account of us as for the ſame reaſon they would the Apo<g ref="char:EOLhyphen"/>ſtles themſelves, were they now alive, as the dung and off-ſcouring of all things; Yet it is no wonder, that theſe perſons <hi>judging according to appearance judge not righteous judgement;</hi>
+               <note place="margin">1 Cor. 4.13.</note> 
+               <hi>but they meaſuring themſelves</hi> by <hi>themſelves and comparing themſelves</hi> amongſt <hi>themſelves are not wiſe.</hi>
+               <note place="margin">2 Cor. 10, 12.</note> Wherefore we are to turn our juſt wonder and in<g ref="char:EOLhyphen"/>dignation into Pity and Commiſeration of them, that they will ſo much <hi>ſtand in their own light, for<g ref="char:EOLhyphen"/>ſake their own mercy,</hi> and ſhew themſelves their own greateſt enemies. It is but their weakneſs and ignorance, that they know not how to prize things or perſons according to their true worth, or <hi>diſcern things that differ,</hi> but entertain wrong no<g ref="char:EOLhyphen"/>tions of excellencies. What if Children prefer their bables before the Tower of <hi>London;</hi> or the Cock, the grain of Barly before the Jewel; or <hi>Glaucus,</hi> in the ſtory gliſtering Braſs before Maſſy Gold; or <hi>Eſau,</hi> a <hi>Morſel</hi> of <hi>bread before his birth<g ref="char:EOLhyphen"/>right;</hi> or the <hi>Gadarens,</hi> their Swine before their Saviour? It is but mens groſs miſtakes and vulgar prejudices,
+<note place="margin">Matth. 13.57.</note> that <hi>prophets are not accepted in their
+<pb n="7" facs="tcp:109817:6"/>own Country,</hi> and that the <hi>Engliſh</hi> Clergy, which are the admiration of the more Impartial World abroad, are the ſcorn and deriſion of any of their own more ungrateful Country-men; Or that they are guilty of the other extreme from that into which they ran in the times of Popery, defying that Order of Church-men, which the others then almoſt deified and adored, and all for mumbling over a few Oraiſons in a ſtrange tongue, making their Breaden God, Chanting Dirges for the Li<g ref="char:EOLhyphen"/>ving, and Requiems for the Dead, and ſuch like other fopperies. We muſt for our parts learn from this their carriage to us, not to think meaner of that Honour which the King of Heaven thinketh fit to put upon us, but rather with the Apoſtle to <hi>magnifie Our Office;</hi>
+               <note place="margin">Rom. 11.13.</note> and in compliance with our Lord and Maſters inſtructions to his Diſciples,
+<note place="margin">Mark 6.11.</note> let us bravely <hi>ſhake off the duſt of our feet againſt them,</hi> that receive not us or our Miniſtry.
+<note place="margin">1 Cor. 4.3.</note> Let it be <hi>a very ſmall thing with us, to be judged with man's judgment,</hi> while God vouchſafes us ſuch Honour. No, let us rather with an holy and gene<g ref="char:EOLhyphen"/>rous diſdain <hi>ſcorn the ſcorner,</hi> trample upon Con<g ref="char:EOLhyphen"/>tempt, deſpiſe Affronts and ſlight Indignities. Let us ſhew our ſelves Men of more raiſed Spirits and Principles, and let us account that calling Our greateſt Honour, which the World may think Our debaſement. Let us learn to leave this baſe World behind us, let us live above it, as having ever ſhewed it ſelf falſe treacherous and diſingenuous, whoſe guiſe it hath been to be guilty of unwor<g ref="char:EOLhyphen"/>thy fordid and dirty carriage, to be moſt injurious to it's greateſt benefactors, to ſet at nought him who came to ſave them, and then to Crucifie him,
+<pb n="8" facs="tcp:109817:7"/>to perſecute and abuſe His Apoſtles, and Miniſters, that were Content to undergo the loſs of all things, that they might ſhew them the way to Sal<g ref="char:EOLhyphen"/>vation, and to be poor in temporals, that they may be rich in Spirituals; as if according to that Hi<g ref="char:EOLhyphen"/>ſtorians Obſervation, Courteſies and kindneſſes change their Nature, and are looked upon as in<g ref="char:EOLhyphen"/>juries, when they are too great to be repaid, and (as it is here) people <hi>owe their own ſelves alſo.</hi>
+               <note place="margin">Philem. 19.</note> How indeed can we expect that the World ſhould alter it's Nature for us now in it's old declining age? Or that the Men of this World, among whom we <hi>ſhine as lights,</hi>
+               <note place="margin">Philip. 2.15.</note> 
+               <hi>ſhould ceaſe to be a crooked and per<g ref="char:EOLhyphen"/>verſe generation?</hi> Our comfort is, the Moon ſhines never the leſs bright, becauſe barked at by Dogs; nor is the light leſs glorious in it's Na<g ref="char:EOLhyphen"/>ture,
+<note place="margin">John 1.5.</note> becauſe the <hi>darkneſs comprehendeth it not.</hi>
+            </p>
+            <p n="2">2. <hi>Lux eſt fortiſsima effectu.</hi> Light herein diſ<g ref="char:EOLhyphen"/>covereth it's celeſtial Original, and imitates hea<g ref="char:EOLhyphen"/>venly bodies in it's motion and influence, as well as in it's enlightning. Whether it be a quality ac<g ref="char:EOLhyphen"/>cording to the <hi>Ariſtotelians,</hi> or a more ſubtile body, according to the <hi>Epicurean</hi> Phyloſophy, it will be here impertinent to determine. This is certain, that all things elſe become viſible; It's own true na<g ref="char:EOLhyphen"/>ture ſtill remains unintelligible, being in the dark it ſelf, how ſenſible ſoever it is in it's effects, which are (as God himſelf) rather to be admired than underſtood. It is moſt <hi>admirably diffuſive</hi> of its ſelf, and with a motion (if not inſtantaneous yet) inſenſibly ſucceſſive, is propagated in the <hi>medium.</hi>
+            </p>
+            <p>Have you never ſeen one torch in the twinkling of an eye expel the darkneſs of an whole Street;
+<pb n="9" facs="tcp:109817:7"/>One Beacon, or Boonfire diſcover it ſelf to the whole Vicinage; All the ſhadows flying away at the dawning of the day?</p>
+            <p>Light is the vehicle of the ſweet influences of heaven; It is the great guide and director of Acti<g ref="char:EOLhyphen"/>ons: and ſo it's not only for ſhew, but Service. He <hi>that walketh in the Light,</hi>
+               <note place="margin">John 11.9.</note> (ſaith Chriſt who was the <hi>true light,</hi>) <hi>ſtumbleth not becauſe he ſeeth the light of this World.</hi> Now thus it is with thoſe who are able Miniſters of the New Teſtament. They are that to the body Myſtical, the Church, which the eye is to the body Natural. They are our Spiritual guides unto Salvation; not only <hi>Mercurial</hi> Statues, pointing the way to others, and ſtanding ſtill themſelves, but like the Star that did not only lighten, but <hi>lead</hi> the wiſemen of the Eaſt, till they came to the Child Jeſus.</p>
+            <p>And if we be lights indeed, we ſhall not think it enough, that we have lamps, unleſs we <hi>have oyl in Our Lamps;</hi> Nor that we have oyl in them, unleſs they are burning and ſhining, ſo as to give light unto others, by our holy life and doctrine, bringing thereby glory to God, credit to Religion, Salvation to our own Souls, and theirs that hear us. We are not only to be painted, but real flames, like torches giving Light to others, though at the ſame time they conſume themſelves. But here we muſt take care, that our Light be not a <hi>falſe Light</hi> not an <hi>ignis-fatuus,</hi> to draw and ſeduce men into bogs and precipices, not an <hi>ignis Graecus,</hi> a Wild<g ref="char:EOLhyphen"/>fire, to inflame and heighten their animoſities and paſſions, nor like that of a <hi>glow-worm,</hi> where there is light without heat, nor like that of a <hi>candle in a Dark Lanthern</hi> to give light to none but our
+<pb n="10" facs="tcp:109817:8"/>ſelves, nay nor like that of a fiery <hi>Meteore,</hi> va<g ref="char:EOLhyphen"/>niſhing as ſoon as it appeareth, but like that of the <hi>Sun and Stars,</hi> conſtant perpetual and invari<g ref="char:EOLhyphen"/>able. And this unſpotted being muſt not be obſcu<g ref="char:EOLhyphen"/>red and overclouded with thick vapors of luſts: Neither muſt it burn downwards towards the earth, and be <hi>put under a buſhel,</hi> but upwards towards heaven. So that it is not ſufficient for us to have light, except our <hi>light ſo ſhine before men, that they may ſee our good works,</hi> &amp;c.</p>
+            <p n="2">2. Which brings me to the ſecond General, from the dignity of the Goſpels Miniſters to their duty.</p>
+            <p>We muſt not only be lights for glory, and gla<g ref="char:EOLhyphen"/>ring, but for the uſe and ſervice of enlightning others: We muſt not only have thoſe graces, which are <hi>radical</hi> and fundamental in the root, but thoſe alſo which are <hi>viſible</hi> and external in the fruit; nor thoſe only which are terminated to our ſelves, but thoſe that extend to others. It is not enough that our goodneſs <hi>extend unto God</hi> the ſearcher of hearts, but it muſt be conſpicuous in the world,
+<note place="margin">Pſal. 16.3.</note> to the <hi>Saints that are in the Earth.</hi> And ſo our gifts and knowledge within muſt ſhew themſelves by giving <hi>heed to our doctrine and ex<g ref="char:EOLhyphen"/>hortation without;</hi>
+               <note place="margin">James 2.18,</note> and Our faith within muſt ap<g ref="char:EOLhyphen"/>pear by Our works, and the effects of a tranſient charity to others. And we muſt be as Chriſt was, <hi>Prophets mighty both in word and deed.</hi>
+               <note place="margin">Luke 24.19.</note> We muſt have,
+<note place="margin">Exod. 28.30.</note> as the high Prieſt of old had, both our <hi>Urim and Thummim,</hi> light of Doctrine, and perfection of life.
+<note place="margin">Exod. 28.33.</note> We muſt not ſeparate <hi>Aarons bells from his pomegranates;</hi> We muſt not only have an empty ſound like a tinkling Cymbal in our teach<g ref="char:EOLhyphen"/>ing,
+<pb n="11" facs="tcp:109817:8"/>but bring forth fragrant fruit in our living, and in this regard be <hi>ſavours of life unto life.</hi>
+               <note place="margin">2 Cor. 6.16.</note> Our Converſation muſt preach as well as our diſcour<g ref="char:EOLhyphen"/>ſes, and we muſt be <hi>Inſtructors and teachers of babes,</hi> not only to their ears, (that is only doing our work by halves) but to their eyes, and ſo we ſhall make religion palpable to their very ſen<g ref="char:EOLhyphen"/>ſes. When they not only hear our Sermons to practiſe them, but behold our honeſt Converſati<g ref="char:EOLhyphen"/>ons to imitate and follow them; then, and not till then ſhall we be able with the Apoſtle to charge them to <hi>walk as they have us for an Example:</hi>
+               <note place="margin">Philip. 3.19.</note> and they need not be charged as the <hi>Jews</hi> were to do after our <hi>ſayings,</hi> but <hi>not after our works.</hi> All that I ſhall ſay hereon, I may reduce to two heads of Our <hi>Doctrine,</hi> and <hi>Life.</hi>
+            </p>
+            <p n="1">1. For the <hi>Light of our doctrine,</hi> which deno<g ref="char:EOLhyphen"/>minateth us Teachers: in which as in other things, I deſire my Reverend Brethren of the Miniſtry (now I am by the providence of God, and by the Injun<g ref="char:EOLhyphen"/>ction of my Superiors called hither) to give me the Liberty of ſpeaking my thoughts, without offence, and mind them of that, which we know Saint <hi>Paul</hi> ſtraitly chargeth <hi>Timothy,</hi> to <hi>take heed unto himſelf, and his doctrine,</hi> and put them <hi>in remembrance,</hi>
+               <note place="margin">1 Tim. 4.16. 1 Tim. 4.6. 2 Tim. 2.14.</note> 
+               <hi>to ſtir up the gift of God in them.</hi> Miniſters of the Goſpel ſhould have their <hi>ſenſes exerciſed to diſcern Spiritual things that differ, above</hi> private Chriſti<g ref="char:EOLhyphen"/>ans, and being in this regard as ſtars, the more Denſe parts of their <hi>Orbs or Vortices,</hi> ſo as their light be more compacted and united, whereby to enable them to out-ſhine others.</p>
+            <p>It is not enough for them to fill the Golden Candleſticks of the Temple, unleſs they give light
+<pb n="12" facs="tcp:109817:9"/>to thoſe who enter in; otherwiſe they are but as <hi>Antiques</hi> under a building, that ſeem to groan un<g ref="char:EOLhyphen"/>der their burden, whereas in ſtead of ſupporting, they are only ſupported themſelves. Our Saviour chargeth us therefore, not only to have <hi>our loins always girt,</hi>
+               <note place="margin">Luke 12.35.</note> i. e. with the girdle of truth and ſin<g ref="char:EOLhyphen"/>cerity, or ſo as to be ſtill in <hi>procinctu,</hi> ready for his com<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ng, or if you will, by external conformi<g ref="char:EOLhyphen"/>ty in our habit; but we muſt have <hi>Our lights burn<g ref="char:EOLhyphen"/>ing,</hi> to illuminate and direct others in their way to heaven, and be to them as the pillar of fire by night was to the <hi>Iſraelites,</hi> in their journey through the wilderneſs towards <hi>Canaan.</hi> What good elſe doth light, if it diſcover not it's ſelf to them who ſit in darkneſs? No more than painted fire to thoſe who are benum'd with cold. For the Prieſts lips ſhould preſerve knowledge, and they ſhould ſeek the Law at his mouth,
+<note place="margin">Mal. 2.7.</note> for he is the meſſenger of the Lord of hoſts. It will not be enough for us in the laſt day when we are to give an account of our ſtewardſhip to our Maſter in heaven, that we have lived an unprofitable, though Innocent An<g ref="char:EOLhyphen"/>chorets life, that we have <hi>laid up our talent in a Napkin.</hi>
+               <note place="margin">Lûke 19.20.</note> No, we muſt lay it out for our Lords pro<g ref="char:EOLhyphen"/>fit. We are <hi>bid to preach the word, to be inſtant in ſeaſon and out of ſeaſon,</hi>
+               <note place="margin">2 Tim. 4.2.</note> 
+               <hi>to reprove, rebuke, exhort with all long-ſuffering and doctrine.</hi> We are not allowed to lock up a treaſure of knowledge in our own breaſt, or cover our fire under the Aſhes; but it muſt break out as a fire on the Altar, and we muſt ſtill have before our eyes, our ſolemn promiſe made when we received holy Orders, <hi>to give faithful di<g ref="char:EOLhyphen"/>ligence, to Miniſter the Doctrine and diſcipline of Chriſt.</hi> We muſt not be like <hi>wandring planets,</hi>
+               <pb n="13" facs="tcp:109817:9"/>which are ſometimes Stationary, ſometimes Re<g ref="char:EOLhyphen"/>trograde, much leſs like vaniſhing Comets; but as conſtantly as well as publikely uſeful, as thoſe Luminaries are in Lightning and guiding the lower World.</p>
+            <p>Now becauſe our Saviour ſeems to propoſe Saint <hi>John</hi> the Baptiſt as our Example herein,
+<note place="margin">John 5.35.</note> when he ſtyles him a burning and ſhining light, I ſhall therefore give you a brief character of him, being one, as a Father deſcants on the place, <hi>Ardens per coeleſte deſiderium, lucens per verbum.</hi> As ſevere in his life, as he was in his Doctrine. He was none of thoſe who <hi>wore a rough garment to deceive,</hi> he was no Hermite as to loving his eaſe, and indulging himſelf, like an Abbey-lubber, that could ſatisfie himſelf with the taking the <hi>Milk and the Wool of the flock</hi> without feeding them, and when he had taken on him cure of Souls, by his groſs neglect to make it a <hi>ſine Curâ;</hi> but it may be ſaid of him as of that <hi>Romane</hi> Emperour that never ſaid to his Souldiers, <hi>go thither, but come hither.</hi> Now you may obſerve theſe things in his preaching.</p>
+            <p n="1">1. <hi>He preach'd with Authority.</hi> He did not think it enough, that he was a gifted brother, or could talk fluently, myſterious <hi>non-ſenſe,</hi> in Scripture Language wreſted; He was none of thoſe in our days who ran before they were ſent, being (as one ſaith) <hi>priûs indoctorum doctores, quàm docto<g ref="char:EOLhyphen"/>rum diſcipuli,</hi> which take on them to be teachers of others, and need that one ſhould teach them, what are the firſt principles of the Oracles of God, that have never ſate at <hi>Gamaliels feet,</hi> or ſtay'd at <hi>Jericho, at leaſt till their beards be grown.</hi> But before he ventured on that tremendous work of
+<pb n="14" facs="tcp:109817:10"/>the Miniſtry, he lived a retired Contemplative Life in the Wilderneſs, till he was of thoſe years, which the Law required of the Prieſts for the exer<g ref="char:EOLhyphen"/>ciſe of their Function.</p>
+            <p n="2">2. He uſed a <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> a <hi>boldneſs and freedom of ſpeech</hi> in his preaching; for he reproved the Epi<g ref="char:EOLhyphen"/>demical diſeaſes of the age, and place wherein he lived. He ſhewed himſelf to be none of thoſe paraſites, that love to ſprinkle Court-holy Water on the Grandees of the World,
+<note place="margin">Jude 16.</note> as <hi>having mens per<g ref="char:EOLhyphen"/>ſons in admiration for advantage ſake.</hi> He did not preach ſoft and pleaſing things, but was (as <hi>Ariſtotle</hi> deſcribes his Hero or Vertuous man) <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>. He was a <hi>true Nathaniel,</hi> an <hi>Iſraelite indeed, in whom there was no guile.</hi> He was not wont to daub with untemper<g ref="char:EOLhyphen"/>ed Mortar, but uſed open, and plain dealing, be<g ref="char:EOLhyphen"/>ing free and impartial in his Cenſures, and painted out fin, and ſinners in their own colours. He ſpa<g ref="char:EOLhyphen"/>red none that came in his way, neither open pro<g ref="char:EOLhyphen"/>faneſs of the Publicanes and Souldiers on the one ſide, nor the hypocriſie, ſly and refined wickedneſs of the Phariſees and Sadducees on the other ſide; Nay, not that <hi>Herod</hi> himſelf, though his life lay at ſtake for it.</p>
+            <p n="3">3. <hi>He preached ſeverely.</hi> His doctrine was alike ſevere as his life, as well knowing that pure Religion and undefiled conſiſteth not in empty names and words, in being of ſuch a way, party, or ſeparated Church; and therefore he bids beware of flattering themſelves with the outward badge and cognifance of God's people,
+<note place="margin">Matth. 3.9.</note> in being <hi>Abraham's Children.</hi> Chri<g ref="char:EOLhyphen"/>ſtianity conſiſts not in petty obſervances &amp; modules of worſhip, but in reality and ſincerity. Elſe we are
+<pb n="15" facs="tcp:109817:10"/>only Nominal and Equivocal Chriſtians: and there<g ref="char:EOLhyphen"/>fore he tells us,
+<note place="margin">Matth. 3.8.</note> we muſt <hi>bring forth fruits meet for repentance.</hi> And this ſtrict doctrine he might preach with the more confidence, (as our Saviour Chriſt) becauſe he ſpake not only ſenſe and reaſon, but ex<g ref="char:EOLhyphen"/>perience, his life not confuting his doctrine, but confirming it; and fear'd not the cenſure of <hi>Antino<g ref="char:EOLhyphen"/>mians,</hi> for a Legal Preacher, or a man of an Old<g ref="char:EOLhyphen"/>teſtament Spirit, eſpecially ſeeing.</p>
+            <p n="4">4. <hi>He Preached Evangelically</hi> withal. He not only ſhewed them their deſeaſe out of the Law, but their remedy out of the Goſpel. He not only caſt them down, by laying the <hi>ax at the root of the tree,</hi> but reſtored them by the laver of Regeneration, and pointing out unto them their Saviour, and ſo was truly gracious, both in Name, and Nature, both in Life and Doctrine. And ſo I come to the ſe<g ref="char:EOLhyphen"/>cond head.</p>
+            <p n="2">2. As the light of our Doctrine muſt ſhine; ſo that of our Life and Converſation: and this muſt be before men, not only before our brethren, that they may be built up in their holy faith; but before thoſe alſo who are <hi>without:</hi> That ſo Religion and the inſtructors of it may have <hi>a good report of all men,</hi> as well as of the truth it ſelf,
+<note place="margin">2 Cor. 11.12.</note> that the <hi>mouthes of unruly</hi> and <hi>vain talkers may be ſtopt, and occaſion may be taken away from them who ſeek occaſion,</hi> that our obſervers, who watch for our halting, may be diſappointed, their hearts may be mollified, their hoſtilities abated, their prejudices removed, and they may be brought to entertain honourable thoughts of our profeſſion. Their Paſtours and Teachers being more publike perſons than others, ought to know above others,
+<note place="margin">1 Tim. 3.15.</note> how to <hi>behave them<g ref="char:EOLhyphen"/>ſelves
+<pb n="16" facs="tcp:109817:11"/>in the houſe of God,</hi> and ſhew themſelves ex<g ref="char:EOLhyphen"/>amples to the flock; and therefore ſhould learn to adorn their Miniſtry, as becomes thoſe of ſo Divine an Order, and by no means to reflect diſhonor on ſo Sacred an Office, by a ſordid ſenſual and earthly converſation. And therefore (as the late Lord Biſhop of <hi>Down</hi> and <hi>Conner</hi> well ſheweth in his advice unto His Clergy)<q rend="margQuotes"> we are to judge of our duty by more ſtrict and ſevere meaſures than thoſe of our peo<g ref="char:EOLhyphen"/>ple, and muſt not allow that in our ſelves, which we do in them.</q> This was both the Apoſtles rule and practice,
+<note place="margin">1 Cor. 6.3.</note> to <hi>give no offence to any man, that the Miniſtry be not blamed.</hi> And if we will <hi>do the work of an Evangeliſt,</hi>
+               <note place="margin">2 Tim. 4.5.</note> 
+               <hi>make full proof of our Miniſtry, we muſt keep our ſelves as pure and unſpotted from the world,</hi> as humane frailty will permit, abſtaining even from the <hi>appearance of evil;</hi> leaſt otherwiſe we <hi>defile the prieſthood,</hi>
+               <note place="margin">Ezek. 3.1.</note> and cauſe the <hi>offerings</hi> of <hi>the Lord to be abhorred. Ezekiel</hi> was bid <hi>to eat the roll;</hi> and we muſt labor to maſticate and concoct the truths we preach unto others, in firſt trying experiment of them upon our ſelves, and exemplifying them in our Conver<g ref="char:EOLhyphen"/>ſations: whence Saint <hi>Paul</hi> exhorts <hi>Timothy</hi> to be an <hi>example unto believers in word,</hi>
+               <note place="margin">1 Tim. 4 12.</note> 
+               <hi>in converſation, in charity, in ſpirit, in faith, in purity.</hi>
+            </p>
+            <p>Now to excite us hereunto, Conſider,</p>
+            <p n="1">1. How <hi>abſurd and unfitting a thing it is,</hi> that our practice ſhould be diſſonant unto our profeſſion, that we ſhould undo that on the Week-days, which we Preach upon the Lords-day,
+<note place="margin">Rom. 14.22.</note> and ſo <hi>condemn our ſelves in thoſe things which we allow,</hi>
+               <note place="margin">Gal. 2.18.</note> and make <hi>Our ſelves tranſgreſſors by building thoſe things which we deſtroyed,</hi> that it ſhould be ſaid of any of us which that <hi>Spartan</hi> ſaid of the <hi>Athenians</hi> that they knew
+<pb n="17" facs="tcp:109817:11"/>how to do well, but loved to do ill;
+<note place="margin">2 Tim. 2.15.</note> and ſo we ſhall make our ſelves to be Workmen that <hi>need to be a<g ref="char:EOLhyphen"/>ſhamed,</hi> ſeeing as he ſaith, <hi>Dict a factis deficientibus erubeſcunt;</hi> that it ſhould be ſaid of any man, that he is the beſt man in the Pulpit, and the worſt out, that he ſpeaks as well as never man ſpake, and lives as ill as never man liv'd; and therefore (as a Right Reverend Father of our Church expreſſeth it)<q rend="margQuotes"> It is ſo far from being ſerious piety,
+<note place="margin">Lord Biſhop of <hi>Norwich.</hi>
+                  </note> that it is the worſe ſort of pageantry, for men to preach Angelical Sermons,and live Diabolical lives; </q> that it ſhould be caſt juſtly in any ones teeth.
+<note place="margin">Rom. 2.21.</note> Thou <hi>that teacheſt another, teacheſt thou not thy ſelf?</hi> that their mouthes ſhould ſpeak great ſwelling words, and yet ſtill walk after their own luſts, and be like the Stoical Philo<g ref="char:EOLhyphen"/>ſophers, who could talk big of vertue till they came to practiſe it: whom therefore <hi>Lucian</hi> derides, <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, Their works contradicting their words, and their practice giving a lie to their profeſſion. How fooliſh, ridiculous, and diſparaging muſt it needs be, to make a long formal ſtarch'd harangue about Religion and Vertue, and declame Rhetorically againſt vice, which they yet renounter, in the whole courſe of their lives? Which made the <hi>Comick</hi> ſay, <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>. He loathed ſuch Sophiſters and pretended Philoſophers, that were unwiſe for themſelves. <hi>Turpe eſt doctori, &amp;c.</hi>
+            </p>
+            <p n="2">2. Conſider the <hi>bad influence,</hi> our example hath upon other men: How can we expect that others ſhould follow our doctrine, when as we our ſelves forſake it, as unpracticable or at leaſt uneligible? We ſee men rather apt to be lead by precedents than precepts, and go like ſheep, <hi>Quo itur, non quo
+<pb n="18" facs="tcp:109817:12"/>cundum,</hi> and eſpecially to imitate their guides and Leaders. Such perſons therefore who are great talkers, and little doers, take the ready way to make more Atheiſts in the world, than hath been hitherto made by the late licentious times, which have cor<g ref="char:EOLhyphen"/>rupted Religion in the very foundations. Will not men of looſe principles be ready to look on Religi<g ref="char:EOLhyphen"/>on as a <hi>non-entity,</hi> a cunning deviſed Fable of in<g ref="char:EOLhyphen"/>tereſted Prieſts, which go about to perſwade that to others, which they believe not themſelves? Theſe perſons ſhine, but in a wrong ſenſe, as if they under<g ref="char:EOLhyphen"/>ſtood the words of the Text, ſo as a <hi>Romiſh</hi> Prieſt profanely applyed them; who being to do Penance for ſome ſcandalous offence, by going in Proceſſion to the Church with a burning Taper in his hand, ſcoffingly ſaid, <hi>ſic luceat Lux veſtra coram homini<g ref="char:EOLhyphen"/>bus, &amp;c.</hi> They ſhine, but it is with the Devils light, to <hi>Light men down to the Chambers of Death,</hi> and make more Proſelytes for his Kingdom. He uſeth them indeed as ſome ill barbarous people do lights by the Sea-ſide, which they hang up in dark ſtormy nights near rocks and quick-ſands, to make paſſen<g ref="char:EOLhyphen"/>gers caſt away themſelves upon their Coaſt, that ſo they may make a prey of them. What readier courſe could they take to open mens mouthes againſt Chri<g ref="char:EOLhyphen"/>ſtianity, and to ſay as that <hi>Indian</hi> did to one perſwa<g ref="char:EOLhyphen"/>ding him to turn Chriſtian, obſerving the <hi>Spaniards</hi> wicked lives, What are Chriſtians? They are Gameſters, Dicers, wicked blaſphemers, backbiters, quarrellers, and concluded Chriſtians could not be good; and ſo we ſhall find it, proportionably, if we walk Antipodes to our doctrine, and ſhew our ſelves ſuch as <hi>Tertullian</hi> ſharply inveighs againſt, <hi>Quibus venter Deus eſt, &amp; popina templum, &amp;
+<pb n="19" facs="tcp:109817:12"/>aqualiculus altare, &amp; ſacerdos Coquus, &amp; Spiritus Sanctus nidor, &amp; condimenta chariſmata;</hi> eſpecially there being more holyneſs expected of us then others, and a ſpot in our Coat making more ſhew, than in others. We had need be clean who <hi>bear the veſſels of the Lord,</hi> eſpecially in an hypocritical age,
+<note place="margin">Iſaiah 52.11.</note> wherein people are apt to <hi>eſpy motes in our eyes,</hi> and look on all our faults through a magnifying and multiplying glaſs; Which may ſerve for a</p>
+            <p n="3">3<hi rend="sup">d</hi> Conſideration, that we have ſo <hi>many enemies in the world,</hi> to encounter, what through the <hi>contra<g ref="char:EOLhyphen"/>diction of ſinners</hi> and ſcoffing Atheiſts on one hand, and the weakneſs and peeviſhneſs of ſome, at leaſt, pretended Saints, on the other; neither are we igno<g ref="char:EOLhyphen"/>rant of Satans old deviſe, of caſting Ignominy and Contempt on Religion by diſgracing and diſpara<g ref="char:EOLhyphen"/>ging the publiſhers and profeſſors of it: Great rea<g ref="char:EOLhyphen"/>ſon have we therefore to walk <hi>circumſpectly,</hi>
+               <note place="margin">Epheſ. 5.</note> 
+               <hi>not as fools, but as wiſe,</hi> and to take heed that we <hi>defile not our garments.</hi> For we ſhall meet with but few <hi>Con<g ref="char:EOLhyphen"/>ſtantines</hi> in our days ſo tender of the Clergies ho<g ref="char:EOLhyphen"/>nour, as if he eſpyed them in a fault, to cover them with his Imperial Robes; but they will rather pub<g ref="char:EOLhyphen"/>liſh to the world all the evil they know by us, and more than they know, their own Inventions and miſ<g ref="char:EOLhyphen"/>conſtructions. There are too many in the world, that contemne our Calling, envy our Dignities, gape after our Revenues, cenſure our moſt Innocent Actions, and hate our very Perſons. Others ſepa<g ref="char:EOLhyphen"/>rate from our Church as Impure and Anti-Chri<g ref="char:EOLhyphen"/>ſtian, abhor our Garments as Babyloniſh, our Cere<g ref="char:EOLhyphen"/>monies as Popiſh and Superſtitious, our very Wor<g ref="char:EOLhyphen"/>ſhip as Idolatrous, look upon us as no better than Prieſts of <hi>Baal,</hi> and Limbs of Anti-Chriſt. Among
+<pb n="20" facs="tcp:109817:13"/>theſe I cannot forget a leading high-flown ſeparatiſt too well known in this place, who not long ſince beſpake the State in this Language.</p>
+            <p>
+               <q rend="margQuotes">Be wiſe now therefore O ye Kings, be inſtructed O ye Judges of the earth. Take away Pariſhes by Act of State, away with all conſecrated places for worſhip, away with Patrones or Lay-founders, away I ſay with all the appurtenances of a Pariſh Prieſt: and again. I profeſs, quoth he, were I a man in ab<g ref="char:EOLhyphen"/>ſolute Authority in a Nation, I would make Scaven<g ref="char:EOLhyphen"/>gers of all the Pariſh Prieſts in <hi>England</hi> to clean the ways and to rake the Dunghills.</q> And this he confidently calls a voice from heaven, when alaſs! it is only ſuch a noiſe as that of the <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, proceeding out of it's own belly, and <hi>not knowing what Spirit he is of,</hi> miſtakes the ſtrange fire in his own brain, for a fire from heaven; and minds me of the proud <hi>Gnoſticks</hi> of old, that arrogated to themſelves ſo great a meaſure of knowledge and ſanctity, as to dictate to the world and obtrude their private ſentiments on others, as if they were Arti<g ref="char:EOLhyphen"/>cles of faith, and themſelves guided by an infallible Spirit. It is opinionativeneſs and ſpiritual pride of mens gifts and graces, that puts men on ſeparation, and confining ſanctity, as the <hi>Donatiſts</hi> of old, to their own party in one Corner of <hi>Africa:</hi> and thus none muſt be Saints, but thoſe of their Calendar. This makes them, like ſheep ſtealers, take members out of other mens flocks, and <hi>boaſt of things in other mens line made ready to their hand,</hi>
+               <note place="margin">2 Cor. 10.16.</note> miſtaking for con<g ref="char:EOLhyphen"/>verſion to God, a bringing men over to their own forms, and ſome petty inconſiderable matters, in <hi>which the kingdom of God conſiſteth not.</hi> Theſe mind me of thoſe in <hi>Prov.</hi> 30.12. <hi>a generation pure in their
+<pb n="21" facs="tcp:109817:13"/>own eyes, and yet not cleanſed from their filthineſs: or of thoſe in</hi> Eſay 65.5. that ſay, <hi>ſtand off, come not nigh me, for I am holier than thou. Theſe are a ſmoak in my noſe, a fire that burneth all the day:</hi> and theſe may ſerve for a pregnant inſtance to us, how far an <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>; and raſh miſguided Zeal may tranſport men; ſo as to think that, while they endeavour the ſubver<g ref="char:EOLhyphen"/>ſion of a ſetled Miniſtry, they are doing God Service, and may be an <hi>Item</hi> to us likewiſe, of the dangerous conſequences of thoſe Principles, which the afore<g ref="char:EOLhyphen"/>ſaid Sectarians ſo confidently proceed on, <hi>viz.</hi> The neceſſity of aboliſhing things once abuſed to Idola<g ref="char:EOLhyphen"/>try and Superſtition, and the unlawfulneſs of uſing any thing of an indifferent nature, even as to the Circumſtantials of Gods Worſhip, which is not expreſly Commanded in holy Writ. Let us</p>
+            <p n="4">4<hi rend="sup">ly</hi> Conſider the <hi>danger of neglecting our duty herein,</hi>
+               <note place="margin">Ma<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>th 23 14.</note> and of <hi>giving offence and bad example unto others:</hi> Such certainly (as our Saviour ſaid of the Phariſees) <hi>ſhall receive the greater damnation,</hi> when they ſhall hear it ſaid unto them by God (which ſo moved Origen) <hi>What haſt thou to do,</hi>
+               <note place="margin">Pſal. 50 16.</note> to take my name into thy mouth, ſeeing <hi>thou bateſt reproof, and baſt caſt my law behind thy back?</hi> So that it will not be enough for them at the laſt day, to ſay, <hi>Lord,</hi>
+               <note place="margin">Matth. 7.12.</note> 
+               <hi>Lord, we have propheſied in thy name:</hi> And Chriſt hath good reaſon to take it ill, if he receiveth <hi>wounds in the houſe of his friends,</hi> and be thus diſhonoured and affronted by his own Menial Servants, that wear his Badge and Livery; and if thoſe that <hi>live by the al<g ref="char:EOLunhyphen"/>tar,</hi> and <hi>eat with him,</hi> at his Table,
+<note place="margin">Mal. 2.8.</note> lift up their <hi>heel againſt him,</hi> if they I ſay, depart out of the way, and cauſe others to ſtumble; If <hi>the light that is in you be darkneſs</hi> (as our Saviour ſaith) how <hi>great is that</hi>
+               <note place="margin">Matth. 6.22.</note>
+               <pb n="22" facs="tcp:109817:14"/>
+               <hi>darkneſs?</hi> What! ſhall I ſay, as one; that hell ſhall be paved with the skulls of profane Scholars? Queſti<g ref="char:EOLhyphen"/>onleſs it will be more tolerable in the day of Judg<g ref="char:EOLhyphen"/>ment for others, than for ſuch, who inſtead of being men of God, ſhow themſelves men of <hi>Belial,</hi> inſteed of being Prieſts of the high God, are Prieſts of <hi>Bac<g ref="char:EOLhyphen"/>chus,</hi> or <hi>Venus;</hi> and obſcure the light of their Do<g ref="char:EOLhyphen"/>ctrine by works of darkneſs. Theſe, though they have the voyce of <hi>Jacob,</hi> have the hands of <hi>Eſau,</hi> and do by their bad example, but <hi>aedificare ad gehennam. Cavendum eſt itaq, nobis fratres, ne vel ſuperbia, ad<g ref="char:EOLhyphen"/>dam, &amp; luxuria, quae (dicente S. Cypriano) valde ſua<g ref="char:EOLhyphen"/>viter dormiunt in ſacerdotum ſinu, denuo florentis Ec<g ref="char:EOLhyphen"/>cleſiae noſtrae ruinam moliantur, &amp; aut paritatem inter Eccleſiaſticos, quâ nihil imparius eſſe dixit Veterum non-nemo, aut quod deterius eſt, Acephalorum Anar<g ref="char:EOLhyphen"/>chiam introducant, ne in Chaos antiquum confundamur, &amp; novas demum in Eccleſiâ (quod abſit) tragoedias experiamur; dum conformes altàs Eccleſiae filii divino tamen canoni difformes ſe praeſtent, &amp; immorigeros, dum ab exterminatis concionatoribus, aut concionandi aſsiduitate, aut vitae quadam ſeveritate ſuperentur, ad<g ref="char:EOLhyphen"/>eo<expan>
+                     <am>
+                        <g ref="char:abque"/>
+                     </am>
+                     <ex>que</ex>
+                  </expan> fanaticae plebis furore, ne dicam juſto dei judicio, inſtar ſalis inſipidi ſint rejectanei; dum hiſtrionum more verbis tantum Philoſophentur, &amp; malè vivendo (quod inquit ille) alterâ manu abripiant, quod bene docendo, alterâ manu porrigant. Caveamus praeſertim, ne quis coronam noſtram abripias coeleſtem,</hi>
+               <note place="margin">Minutius Felix.</note> 
+               <hi>dum mag<g ref="char:EOLhyphen"/>na potius loquamur, quam vivamus, ne indocti coelum rapiant (quod exclamat ille) &amp; nos cum doctrinis noſtris in infernum detrudamur, ubi</hi>
+            </p>
+            <p>
+               <hi>Scelera taxantur modo Majore noſtra,</hi>
+               <note place="margin">Seneca.</note>
+            </p>
+            <p>Wherefore <hi>ſuffer Brethren,</hi> the <hi>word of exhortati<g ref="char:EOLhyphen"/>on:</hi> Let me intreat and conjure you, by whatſoever
+<pb n="23" facs="tcp:109817:14"/>is great, or good, by whatſoever is dear and near unto you, by that holy Jeſus whom you worſhip, by that holy Religion you profeſs, by the love you bear to your own and others Souls, by a judgment which is to come of condemnation to the evil, and recom<g ref="char:EOLhyphen"/>penſe to the good in a Crown of glory, that your Light ſhine before men.
+<note place="margin">Phil. 4.8.</note> 
+               <hi>Finally brethren whatſoever things are true, whatſoever things are honeſt, whatſo<g ref="char:EOLhyphen"/>ever things are juſt, whatſoever things are pure, what<g ref="char:EOLhyphen"/>ſoever things are lovely, whatſoever things are of good report, if there be any vertue, or if there be any praiſe, think of theſe things.</hi> Be ſtars, for light, motion, and influence: And God will make you as ſtars in his right hand, fixed and unmoved by any of the ſons of violence; and be careful to put in practice that pro<g ref="char:EOLhyphen"/>miſe you made ſolemnly at your Ordination, <hi>to frame and faſhion both your ſelves and families, according to the doctrine of Chriſt,</hi>
+               <note place="margin">1 Pet. 5.3.</note> 
+               <hi>and ſo make your ſelves and them, as much as in you lies, examples to the flock.</hi> Set this your ſeal to your Miniſtry, and let your whole life be a conſtant ex<g ref="char:EOLhyphen"/>emplifying of a Chriſtians duty, and ſo a continual <hi>Sermon</hi> before their eyes, that ſo they may by this <hi>ſilent Rhetorick</hi> be induced to approve of that pure and undefiled Religion, which they ſee us practiſe our ſelves, as well as profeſs and Preach to others. Re<g ref="char:EOLhyphen"/>member your title of <hi>Light,</hi> and ſo labour to reſem<g ref="char:EOLhyphen"/>ble the Sun-beams herein, that through whatſoever place you paſs, you may retain your purity. What if you be for a while Ecclipſed, by the interpoſition of a variable fickle world, the irrational humours of the inconſtant vulgar? ſhew your ſelves as the Church in the Revelations is repreſented, having the Moon under your feet,
+<note place="margin">Revel. 12.1.</note> and by an unoffenſive walk<g ref="char:EOLhyphen"/>ing
+<pb n="24" facs="tcp:109817:15"/>ſtop their mouthes, and ſo take an holy revenge of them, who ſo far malign your office, as to charge the aberrations of particular Perſons upon the Office it ſelf. And then though you may be darkned for a while by the clouds of mens paſſions and prejudices, yet will it be only to this inferior World, not to the upper <hi>ſtarry region;</hi> and when you have finiſhed your courſe, and accompliſhed your periodick mo<g ref="char:EOLhyphen"/>tion, and ſo long ſhined before others, till (like a lamp or candle) you have conſumed your ſelves, God hath promiſed to exalt you to an <hi>higher Orb,</hi> by an happy Apotheoſis, nigh unto himſelf; even there, where when as others ſhall ſhine only as the bright<g ref="char:EOLhyphen"/>neſs of the firmament, they that turn many unto righteouſneſs ſhall ſhine as the ſtars for ever and ever.
+<note place="margin">Dan. 12.3.</note>
+            </p>
+            <p>Now that which in my Text is ſaid unto Mini<g ref="char:EOLhyphen"/>ſters, our Saviour ſaith in a ſenſe to all Chriſtians. Every one that is of the <hi>Light,</hi>
+               <note place="margin">Epheſ. 5 8.</note> muſt walk <hi>as a Child of the Light.</hi>
+               <note place="margin">Tit. 2.<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>0.</note> 
+               <hi>Adorn the Doctrine of our Lord and Sa<g ref="char:EOLhyphen"/>viour in all</hi> things, <hi>bring credit</hi> and honor to Reli<g ref="char:EOLhyphen"/>gion by an Holy Life,
+<note place="margin">Co<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>oſſ. 1.10.</note> 
+               <hi>walk worthy of God to all well<g ref="char:EOLhyphen"/>pleaſing.</hi> The word <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> ſignifies a man as well as light, to denote (as ſome Criticks) that men ought to live as lights unto others. Chriſtians muſt let the world ſee, that there is as much difference between them and others, as between light and darkneſs, and ſo they muſt make the beauty of holineſs, which they heard of only by the hearing of the ear, viſible to their <hi>very eyes;</hi> that men may become admirers and practiſers of our Religion, and ſo have <hi>reaſon to glorifie God</hi> on your behalf: which leads me to the third and laſt general, <hi>viz.</hi>
+            </p>
+            <p n="3">3<hi rend="sup">d</hi> Our end and deſign in our light ſhining. We
+<pb n="25" facs="tcp:109817:15"/>muſt not ſhine ſo as to glaze and gliſter for oſtenta<g ref="char:EOLhyphen"/>tion, like the heathen who knew not what belonged to humility, but were, as <hi>Tertullian</hi> calls them, <hi>Glo<g ref="char:EOLhyphen"/>riae animalia, &amp; negotiatores famae,</hi> vain-glorious hunters after popular air, and applauſe; We muſt not ſhine as the Phariſees, by <hi>making broad</hi> our <hi>Phy<g ref="char:EOLhyphen"/>lacteries, praying in a corner of the ſtreet,</hi>
+               <note place="margin">Matth. 23.5.</note> disfiguring our faces, and all to be ſeen of men;
+<note place="margin">Matth. 6.16.</note> we muſt not ſuffer pride to interpoſe and rob God of his juſt Glory, but all our ſhining muſt be with a deſign to glorifie him, who is <hi>the Father of Lights;</hi> Our good actions muſt be without hypocriſie, not tempered with intereſt, but directed to that which ſhould be the chief end of all our actions, as it was of our be<g ref="char:EOLhyphen"/>ings, <hi>viz.</hi> Gods honour, that men may ſee our good works, and glorifie, not us, but <hi>our Father</hi> which is in heaven. This as it is a duty incumbent upon all men, ſo eſpecially upon thoſe who are near unto him, in the Miniſtry, and ſo as his Ambaſſadours are to be tender of the credit of their <hi>Lord and Ma<g ref="char:EOLhyphen"/>ſter.</hi> But now when we are ſaid here to glorifie God, it cannot be underſtood of any real glory ad<g ref="char:EOLhyphen"/>ded unto him, who is infinitely and Eſſentially glo<g ref="char:EOLhyphen"/>rious, and ſo neither better for our praiſes, or the worſe for our diſpraiſes; but then we honour him, when in our thoughts, words, and actions, we ſet forth his Excellent glory: or as the Schoolmen will have it, Gods glory may be conſidered two ways, either as it is <hi>in him,</hi> and ſo it is incapable of having any thing added to it, or taken from it, as being a confluence and union of thoſe many tranſcendent excellencies that are in him; or elſe it may be con<g ref="char:EOLhyphen"/>ſidered in relation, to it's <hi>manifeſtation</hi> to the crea<g ref="char:EOLhyphen"/>ture, and ſo we may glorifie and honour him, when
+<pb n="26" facs="tcp:109817:16"/>we praiſe him either with our tongue, (which there<g ref="char:EOLhyphen"/>fore is called our <hi>glory</hi>) or by our holy lives, giving occaſion unto others to ſpeak <hi>good of his name.</hi> That this is our duty, might be more largly ſhewed, by the expreſs Command of God, who requireth this homage and tribure as due unto him, from all his Creatures, particularly rational, who are the fitteſt agents for this work, as being endued with reaſon, and ſpeech for this very end; but eſpecially his own people, and among them his Miniſters, which makes the Pſalmiſt to call upon <hi>Iſrael</hi> and the houſe of <hi>Aaron</hi> to praiſe the Lord.
+<note place="margin">Pſal. 118.2, 3.</note> It is indeed but reaſon<g ref="char:EOLhyphen"/>able that we ſhould acknowledge a dependance that we have on him, the relation that we have to him, and the intereſt he hath in us. It is but the honour that is <hi>due unto his name,</hi> who hath in this work complicated our intereſt with our duty, ſee<g ref="char:EOLhyphen"/>ing in glorifying him, we do honour our ſelves, as doing the work of Angels here below, and begin thoſe <hi>Hallelujahs</hi> to the Lord our God, which will be our happineſs to carry on in Heaven, to all Eter<g ref="char:EOLhyphen"/>nity. Which God of His Mercy grant through Jeſus Chriſt.</p>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
